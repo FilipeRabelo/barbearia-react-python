@@ -1,0 +1,11 @@
+instalações 
+# db.py
+# conectando com o db
+
+-- pip install psycopg2  // para instalar com o postgreSQL
+-- pip install mysql-connector-python
+
+- - - - - - - - - - - - - - -- - - - - - - - - - - - - - -
+
+main.py
+-- # pip install flask
